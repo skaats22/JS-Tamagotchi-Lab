@@ -30,20 +30,6 @@ const resetBtnEl = document.getElementById('restart');
 const messageVis = document.querySelectorAll('.hidden');
 
 
-// console.log(boredomStatEl);
-// console.log(hungerStatEl);
-// console.log(sleepinessStatEl);
-// console.log(playBtnEl);
-// console.log(feedBtnEl);
-// console.log(sleepBtnEl);
-// console.log(gameMessageEl);
-// console.log(resetBtnEl);
-// console.log(allButtons);
-
-
-
-
-
 /*----------------------------- Event Listeners -----------------------------*/
 
 // When play, feed, or sleep is clicked, run function to randomly increment
